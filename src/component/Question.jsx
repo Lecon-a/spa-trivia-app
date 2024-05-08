@@ -16,7 +16,7 @@ const Question = () => {
                             <img className="w-12 rounded-full" src={question} alt="Credit: Trivia Game Community" />
                             <p className="mr-8">Sunday P. Afolabi</p>
                         </div>
-                        <p className="text-right border border-cyan-500">Score count</p>
+                        <p className="text-right">Score count</p>
                     </div>
                     <div className="flex flex-col gap-4 py-16 text-center lg:text-left">
                         <p className="py-2 px-4 bg-[#FFC75D] rounded-lg">Who created the digital distribution platform Steam?</p>
