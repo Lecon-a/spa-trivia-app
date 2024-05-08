@@ -1,8 +1,6 @@
-# React + Vite
+# SPa Trivia App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project intend to help its users to boost their IQ performance by answering multioptional questions that they might not have exposed to or might have exposed to. This helps instill knowledge and then boost the IQ performance.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+About Author:
+(Sunday P. Afolabi)[https://linkedin.com/in/sunday-p-afolabi]
